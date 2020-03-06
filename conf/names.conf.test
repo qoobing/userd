@@ -1,0 +1,11 @@
+###################################
+# This userd service config file.
+# and, This is a TOML document.
+###################################
+[[Services]]
+Name    = "communicator"
+Type    = "HTTP"
+Headers = ""
+[[Services.Hosts]]
+Ip   = "127.0.0.1"
+Port = 63255
