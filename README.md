@@ -7,12 +7,14 @@
 
 * 系统示例桌面端截图
 <center>
-![系统示例桌面端截图](./doc/images/login-1-pc.png "系统示例桌面端截图")</center>
+![系统示例桌面端截图](./doc/images/login-1-pc.png "系统示例桌面端截图")
+</center>
 
 
 * 系统示例移动端截图
 <center>
-![系统示例移动端截图](./doc/images/login-1-mobile.png "系统示例移动端截图")</center>
+![系统示例移动端截图](./doc/images/login-1-mobile.png "系统示例移动端截图")
+</center>
 
 
 ------------
