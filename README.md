@@ -3,9 +3,9 @@
 
 通用用户系统，又名USERD系统（USERD即是“user deamon”的缩写），是一款全新的开源用户系统。其旨在为初创团队提供一款完备、稳定、可自由定制的、伸手即得的用户系统，减少重复劳动，增强系统的可交互性。
 * 系统示例桌面端截图
-![系统示例桌面端截图](http://showdoc.qoobing.com:8088/Public/Uploads/2019-11-13/login-1-pc.png "系统示例桌面端截图")
+![系统示例桌面端截图](./doc/images/login-1-pc.png "系统示例桌面端截图")
 * 系统示例移动端截图
-![系统示例移动端截图](http://showdoc.qoobing.com:8088/Public/Uploads/2019-11-13/login-1-mobile.png "系统示例移动端截图")
+![系统示例移动端截图](./doc/images/login-1-mobile.png "系统示例移动端截图")
 
 ------------
 ####功能特性
@@ -25,7 +25,7 @@
 - [-] 数据存储系统字典，含mysql和redis数据结构
 
 核心原理流程如下图所示：
-![核心原理流程](http://showdoc.qoobing.com:8088/Public/Uploads/2019-11-13/5dcbc515e3e74.png "核心原理流程")
+![核心原理流程](./doc/images/5dcbc515e3e74.png "核心原理流程")
 
 ------------
 ####互助开发
