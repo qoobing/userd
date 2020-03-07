@@ -6,15 +6,12 @@
 ### DEMO
 
 * 系统示例桌面端截图
-<center>
-![系统示例桌面端截图](./doc/images/login-1-pc.png "系统示例桌面端截图")
-</center>
 
+![系统示例桌面端截图](./doc/images/login-1-pc.png "系统示例桌面端截图")
 
 * 系统示例移动端截图
-<center>
+
 ![系统示例移动端截图](./doc/images/login-1-mobile.png "系统示例移动端截图")
-</center>
 
 
 ------------
@@ -36,6 +33,7 @@
 - [-] 数据存储系统字典，含mysql和redis数据结构
 
 核心原理流程如下图所示：
+
 ![核心原理流程](./doc/images/5dcbc515e3e74.png "核心原理流程")
 
 ------------
