@@ -5,7 +5,6 @@
 
 ### DEMO
 
-* demo link
 The [demo](http://userd.qoobing.com/ USERD管理后台).
 
 * 系统示例桌面端截图
