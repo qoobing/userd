@@ -5,10 +5,8 @@
 
 ### DEMO
 
-
-The [demo](http://userd.qoobing.com/ USERD管理后台) of this project.
-The [demo](http://userd.qoobing.com/ USERD管理后台) of this project.
-The [demo](http://userd.qoobing.com/ USERD管理后台) of this project.
+* demo link
+The [demo](http://userd.qoobing.com/ USERD管理后台).
 
 * 系统示例桌面端截图
 
